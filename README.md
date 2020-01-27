@@ -22,6 +22,13 @@ npm install
 react-native run-android
 ```
 
+### Ferramentas Auxiliares
+ - react-native-linear-gradient
+ - react-native-vector-icons
+ - styled-components
+ - realm
+ - react-native-status-bar-height
+ 
 
 ## Author
 
