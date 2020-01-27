@@ -40,6 +40,14 @@ target 'appRealmDb' do
 
   pod 'RealmJS', :path => '../node_modules/realm'
 
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
+  pod 'react-native-safe-area-context', :path => '../node_modules/react-native-safe-area-context'
+
   target 'appRealmDbTests' do
     inherit! :search_paths
     # Pods for testing
