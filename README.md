@@ -35,6 +35,9 @@ Para identificar a tabela no banco foi criado uma schema de Repository, onde foi
 
 Para realizar a conexão com o banco, foi criado um arquivo em <code>services/realm.js</code> onde recebe todas as schemas criadas e retorna a conexão pronta.
 
+### Resultado
+
+<img src='app.jpeg' width='200'>
 
 ## Author
 
