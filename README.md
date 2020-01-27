@@ -29,6 +29,12 @@ react-native run-android
  - realm
  - react-native-status-bar-height
  
+#### Realm
+
+Para identificar a tabela no banco foi criado uma schema de Repository, onde foi definido todas as configuraçoes.
+
+Para realizar a conexão com o banco, foi criado um arquivo em <code>services/realm.js</code> onde recebe todas as schemas criadas e retorna a conexão pronta.
+
 
 ## Author
 
