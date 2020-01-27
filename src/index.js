@@ -1,11 +1,13 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { StatusBar } from 'react-native';
+import Main from './pages/Main';
 
 const index = () => {
   return (
-    <View>
-      <Text></Text>
-    </View>
+    <>
+    <StatusBar backgroundColor='#7159c1' barStyle='light-content' />
+      <Main />
+    </>
   )
 }
 
