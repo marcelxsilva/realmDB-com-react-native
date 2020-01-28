@@ -8,6 +8,8 @@
 
 > Aplicação desenvolvida para aplicar conceitos de RealmDB no React Native
 
+Realm é um banco de dados que possibilita o armazenamento de informacoes offline no dispositivo.
+
 ## Install
 
 ```sh
